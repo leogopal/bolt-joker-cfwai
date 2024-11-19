@@ -1,0 +1,6 @@
+name = "joke-bot-worker"
+main = "src/worker.js"
+compatibility_date = "2023-12-01"
+
+[ai]
+binding = "AI"
